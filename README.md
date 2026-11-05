@@ -1,9 +1,9 @@
-### hi, i'm lavi :)
+**hi, i'm lavi :)**
 
-i like experimenting with **AI**, exploring random ideas and making cool stuff.
+i experiment with **AI**, build cool stuff, explore random ideas and occasionally pretend i know what i'm doing.
 
-most of the time, i'm just trying things out, building random little projects and seeing where an idea takes me.
+usually found trying things that probably didn't need to be built in the first place.
 
-**into:** AI · games · space · music · creative experiments
+**into:** AI, games, space, music and questionable ideas.
 
-*just making things for fun.*
+*serious about creating. not so serious about everything else.*
