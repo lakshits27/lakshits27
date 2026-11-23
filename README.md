@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lakshits27/lakshits27/main/assets/field-index.svg" alt="Lavi, in many directions" width="100%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1YWtza284MjkwYnk4em9yMXlrZ3M3cml6OWJ5ZXlmYTUyamYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfD6tQ7yogtLdh7rdf/giphy.gif" alt="Abstract purple glow animation" width="100%">
 
 <br>
 
