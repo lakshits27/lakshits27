@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1YWtza284MjkwYnk4em9yMXlrZ3M3cml6OWJ5ZXlmYTUyamYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfD6tQ7yogtLdh7rdf/giphy.gif" alt="Abstract purple glow animation" width="100%">
+<img src="https://media1.tenor.com/m/x3rf12laxNcAAAAd/sketchbook-anime-sketchbook-full-colors.gif" alt="Anime sketchbook doodle animation" width="100%">
 
 <br>
 
