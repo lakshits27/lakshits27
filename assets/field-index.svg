@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f0e8"/><stop offset="1" stop-color="#e8e0f2"/></linearGradient>
+  <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9c7f2"/><stop offset=".55" stop-color="#9c82c7"/><stop offset="1" stop-color="#55446f"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#786b81" stroke-opacity=".12" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="18" fill="url(#paper)"/>
+<rect width="1200" height="390" rx="18" fill="url(#grid)"/>
+<path d="M0 315 C180 270 280 370 470 320 S790 260 960 320 S1110 350 1200 300" fill="none" stroke="#8e7ba5" stroke-width="1.5" opacity=".45"/>
+<circle cx="890" cy="170" r="116" fill="none" stroke="#76618e" stroke-width="1.2" stroke-dasharray="3 9"/>
+<circle cx="890" cy="170" r="83" fill="url(#orb)"/>
+<path d="M810 180 C840 105 930 94 968 160 C1002 218 934 263 867 239 C820 222 794 200 810 180Z" fill="none" stroke="#f4edf9" stroke-width="2" opacity=".75"/>
+<circle cx="1005" cy="88" r="18" fill="#d2b6a5"/><circle cx="1005" cy="88" r="25" fill="none" stroke="#8b789d" stroke-dasharray="2 5"/>
+<path d="M760 75l10 18 20 3-15 13 4 20-19-10-18 10 4-20-15-13 20-3z" fill="#b7a3d0"/>
+<path d="M1060 255l7 13 15 2-11 10 3 15-14-7-13 7 3-15-11-10 15-2z" fill="#a88fbd"/>
+<g fill="#4c4355" font-family="Arial, sans-serif">
+ <text x="70" y="66" font-size="13" letter-spacing="4">PERSONAL INDEX / VOL. 02</text>
+ <text x="68" y="168" font-size="67" font-weight="700" letter-spacing="-3">LAVI, IN</text>
+ <text x="68" y="238" font-size="67" font-weight="700" letter-spacing="-3">MANY DIRECTIONS.</text>
+ <text x="72" y="286" font-size="16" letter-spacing="1.5" fill="#776a80">A SMALL COLLECTION OF CURIOSITIES & SIDE QUESTS</text>
+ <text x="72" y="350" font-size="11" letter-spacing="3" fill="#887b8e">NOT A PORTFOLIO. MORE LIKE A MARGIN NOTE.</text>
+ <text x="1090" y="345" font-size="11" letter-spacing="2" text-anchor="end" fill="#887b8e">FIG. 027 / L.</text>
+</g>
+<g stroke="#756681" fill="none" opacity=".65"><path d="M70 92h170M70 302h120"/><path d="M1090 55v38m-19-19h38"/></g>
+</svg>
